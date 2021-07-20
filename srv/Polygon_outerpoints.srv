@@ -1,0 +1,5 @@
+# The request of v5test
+sensor_msgs/Image img
+---
+# The response of v5test
+geometry_msgs/Point32[] outer_points
